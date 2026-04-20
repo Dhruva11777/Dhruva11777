@@ -46,8 +46,4 @@ Machine Learning and Deep Learning | Computer Vision Systems | Generative AI and
 </p>
 
 
-## Skills:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,react,nodejs,express,mongodb,postgres,tensorflow,pytorch,opencv,linux,docker,git" />
-</p>
